@@ -1,2 +1,5 @@
 what happens when you initialize a repository?
-the directory become a git director with all the features and advantages that git provide
+    the directory become a git director with all the features and advantages that git provide
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    it work like intermediate medium that contains files from the working directory that are about to enter repository.
+    it offers more control on what files and what versions of files to be commitedd 
