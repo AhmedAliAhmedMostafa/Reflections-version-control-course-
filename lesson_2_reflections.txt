@@ -1,0 +1,2 @@
+what happens when you initialize a repository?
+the directory become a git director with all the features and advantages that git provide
