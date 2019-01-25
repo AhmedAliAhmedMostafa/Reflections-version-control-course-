@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
     it offers more control on what files and what versions of files to be commitedd 
 How can you use the staging area to make sure you have one commit per logical change?
     by not putting anthing in the staging area unless it is a logical change.
+How do the diagrams help you visualize the branch structure?
+    by showing the master branch and other branches that are forking from it and showing every commit in the branch .s
