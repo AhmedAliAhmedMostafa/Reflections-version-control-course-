@@ -7,3 +7,4 @@ How can you use the staging area to make sure you have one commit per logical ch
     by not putting anthing in the staging area unless it is a logical change.
 How do the diagrams help you visualize the branch structure?
     by showing the master branch and other branches that are forking from it and showing every commit in the branch .s
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
